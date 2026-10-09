@@ -23,8 +23,8 @@ This repository contains the complete workflow for:
 4. Go to the **Tasks** tab in the GEE interface to run the 8 exports to your Google Drive.
 
 ## Authors
-- ** Ozias OROU YAWA** (Population Dynamics Lab POP Dyn, University of Parakou)
-- ** Tanguy Mesreil HOUEGBE ** (BiPLAC, LEB, University of Parakou)
+- **Ozias OROU YAWA** (Population Dynamics Lab POP Dyn, University of Parakou)
+- **Tanguy Mesreil HOUEGBE** (BiPLAC, LEB, University of Parakou)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
