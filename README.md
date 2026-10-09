@@ -24,7 +24,7 @@ This repository contains the complete workflow for:
 
 ## Authors
 - **Ozias OROU YAWA** (Population Dynamics Lab POP Dyn, University of Parakou)
-- **Tanguy Mesreil HOUEGBE** (BiPLAC, LEB, University of Parakou)
+- **M. D. Tanguy Mesreil HOUEGBE** (BiPLAC, LEB, University of Parakou)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
